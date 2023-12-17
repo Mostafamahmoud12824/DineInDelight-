@@ -2,9 +2,8 @@
 
 ## Prerequisites
 
-Make sure you have Node.js and npm installed on your machine.
+Make sure you have npm installed on your machine.
 
-- [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
 ## Getting Started
@@ -40,3 +39,5 @@ You can build your storybook for release with:
 ```bash
 npm run build-storybook
 ```
+![Screen](https://github.com/Mostafamahmoud12824/DineInDelight-/assets/62766443/d6802512-87d6-4acc-8625-d8be2abd89e8)
+
