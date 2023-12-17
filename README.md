@@ -39,5 +39,6 @@ You can build your storybook for release with:
 ```bash
 npm run build-storybook
 ```
+## The Cover Page for Website
 ![Screen](https://github.com/Mostafamahmoud12824/DineInDelight-/assets/62766443/d6802512-87d6-4acc-8625-d8be2abd89e8)
 
