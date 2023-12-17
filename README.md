@@ -13,8 +13,30 @@ To get started with your project, you'll first need to install the dependencies 
 
 ```bash
 npm install
+```
 ## Development
 
 Run a development version of the project:
+
 ```bash
-npm run dev
+npm start
+```
+After a few seconds, your project should be accessible at the address http://localhost:1234/.
+
+Build for Release
+If you are satisfied with the result, you can finally build the project for release with:
+
+```bash
+npm run build 
+```
+After installing, you can view by running:
+
+```bash
+npm run storybook
+```
+After a few seconds, your storybook should be accessible at the address http://localhost:6006/.
+
+You can build your storybook for release with:
+```bash
+npm run build-storybook
+```
