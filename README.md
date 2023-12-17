@@ -13,3 +13,8 @@ To get started with your project, you'll first need to install the dependencies 
 
 ```bash
 npm install
+## Development
+
+Run a development version of the project:
+```bash
+npm run dev
